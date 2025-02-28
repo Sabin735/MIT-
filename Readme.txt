@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+# Sabin Rai
 
-Template Name: EasyFolio
-Template URL: https://bootstrapmade.com/easyfolio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This  is my portfolio design by using html and css 
